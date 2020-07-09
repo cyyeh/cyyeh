@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently on the path to become a machine learning practitioner.
-- 🌱 I’m currently learning building reactive machine learning systems.
+- 🌱 I’m currently learning to build reactive machine learning systems using Scala, Akka and Spark.
