@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently on the path to become a machine learning practitioner.
-- 🌱 I’m interested in building machine learning systems, and now learning distributed systems stuff.
