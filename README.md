@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently on the path to be a machine learning practitioner.
+An ordinary mind who is always passionately learning from extraordinary minds.
