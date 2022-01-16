@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-An ordinary mind who is always passionately learning from extraordinary minds.
+Program = Data Structures + Algorithms + Programming Styles
