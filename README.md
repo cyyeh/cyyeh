@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Program = Data Structures + Algorithms + Programming Styles
+> Program = Data Structures + Algorithms + Programming Styles
+
+You can [know more about me here](https://linktr.ee/cyyeh)
