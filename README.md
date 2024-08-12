@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 > Program = Data Structures + Algorithms + Programming Styles
 
 You can [know more about me here](https://linktr.ee/cyyeh)
+
+[![cyyeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyyeh)](https://github.com/anuraghazra/github-readme-stats)
