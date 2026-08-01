@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Building [Data System School](https://datasystem.school/) to help train engineers to understand unfamiliar data systems from first principles by predicting, measuring, building, comparing, and defending how their mechanisms behave.
+Building [Data System School](https://datasystem.school/) to help engineers understand unfamiliar data systems from first principles—by predicting, measuring, building, comparing, and defending system behavior.
 
 You can [know more about me here](https://www.linkedin.com/in/cyyeh/).
