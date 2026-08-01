@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> Program = Data Structures + Algorithms + Programming Styles
+Building [Data System School](https://datasystem.school/) to help train engineers to understand unfamiliar data systems from first principles by predicting, measuring, building, comparing, and defending how their mechanisms behave.
 
-You can [know more about me here](https://www.linkedin.com/in/cyyeh/)
+You can [know more about me here](https://www.linkedin.com/in/cyyeh/).
