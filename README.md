@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am now building [Data System School](https://datasystem.school/) to help engineers understand data systems from first principles.
+I am now building [Data System School](https://github.com/Data-System-School) to help engineers understand data systems from first principles.
 
 You can [know more about me here](https://www.linkedin.com/in/cyyeh/).
