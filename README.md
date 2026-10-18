@@ -19,4 +19,4 @@ I am building [games](https://spira-clash.yujoylab.com) for fun.
 
 I am also building [Data System School](https://github.com/Data-System-School) for software engineers.
 
-You can [know more about me here](https://cyyeh.github.cio).
+You can [know more about me here](https://cyyeh.github.io).
