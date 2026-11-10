@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 You can [know more about me here](https://cyyeh.github.io).
+
+![cyyeh's GitHub stats](./profile/stats.svg)
